@@ -1,9 +1,11 @@
+## 🐝 BEE ALGORITHM (ABC Algorithm)
+This project implements the Artificial Bee Colony (ABC) optimization algorithm. The simulation starts by specifying the number of bees in the colony.
 
-This project implements the Artificial Bee Colony (ABC) optimization algorithm. The simulation starts by specifying the number of bees in the colony. 
+Using the benchmark function, the colony searches for the global minimum, demonstrating swarm intelligence and collective foraging behavior.
 <p align="center">
 <img width="161" height="32" alt="image" src="https://github.com/user-attachments/assets/ca3feb98-77b3-429b-8208-e3a479e76acf" />
 </p>
-Using the benchmark function, the colony searches for the global minimum, demonstrating swarm intelligence and collective foraging behavior. The application provides a hands-on example of nature-inspired metaheuristic optimization and showcases concepts such as employed bees, onlooker bees, and scout bees in action.
+The application provides a hands-on example of nature-inspired metaheuristic optimization and showcases concepts such as employed bees, onlooker bees, and scout bees in action.
 
 ## 🖼 Screenshots
 <p align="center">
